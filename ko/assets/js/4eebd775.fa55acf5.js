@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_website=self.webpackChunkdoc_website||[]).push([[919],{6349:e=>{e.exports=JSON.parse('{"label":"copy trading","permalink":"/ko/blog/tags/copy-trading","allTagsPath":"/ko/blog/tags","count":1}')}}]);
