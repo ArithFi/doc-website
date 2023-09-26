@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_website=self.webpackChunkdoc_website||[]).push([[734],{2982:e=>{e.exports=JSON.parse('{"label":"guild","permalink":"/tr/blog/tags/guild","allTagsPath":"/tr/blog/tags","count":2}')}}]);

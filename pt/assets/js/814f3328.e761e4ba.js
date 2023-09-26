@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_website=self.webpackChunkdoc_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"How to trade","permalink":"/pt/blog/how-to-trade"},{"title":"How to use copy trading feature on ArithFi?","permalink":"/pt/blog/guildline"}]}')}}]);

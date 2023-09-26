@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdoc_website=self.webpackChunkdoc_website||[]).push([[168],{1536:e=>{e.exports=JSON.parse('{"title":"Overview","slug":"/category/overview","permalink":"/docs/category/overview","navigation":{"next":{"title":"Background","permalink":"/docs/overview/Background"}}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_website=self.webpackChunkdoc_website||[]).push([[237],{9754:(e,t,i)=>{i.r(t),i.d(t,{default:()=>o});var c=i(7294),n=i(2263),s=i(7961);function o(){const{siteConfig:e}=(0,n.Z)();return(0,c.useEffect)((()=>{window.location.href="/docs/arithfi"}),[]),c.createElement(s.Z,{title:`${e.title}`,description:"Docs"},c.createElement("main",null))}}}]);

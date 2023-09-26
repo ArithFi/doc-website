@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdoc_website=self.webpackChunkdoc_website||[]).push([[795],{407:e=>{e.exports=JSON.parse('{"title":"AFQ","slug":"/category/afq","permalink":"/ru/docs/category/afq","navigation":{"previous":{"title":"ATF Tokenomics","permalink":"/ru/docs/overview/ATF_tokenomics"},"next":{"title":"Deposit/Withdraw","permalink":"/ru/docs/AFQ/Deposit_Withdraw"}}}')}}]);
