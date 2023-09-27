@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_website=self.webpackChunkdoc_website||[]).push([[974],{5702:e=>{e.exports=JSON.parse('{"permalink":"/ko/blog/tags/swap","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

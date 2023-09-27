@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_website=self.webpackChunkdoc_website||[]).push([[778],{8958:e=>{e.exports=JSON.parse('[{"label":"swap","permalink":"/pt/blog/tags/swap","count":1},{"label":"copy trading","permalink":"/pt/blog/tags/copy-trading","count":1},{"label":"guild","permalink":"/pt/blog/tags/guild","count":1}]')}}]);

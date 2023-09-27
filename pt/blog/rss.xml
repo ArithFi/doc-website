@@ -4,10 +4,19 @@
         <title>ArithFi Blog</title>
         <link>https://arithfi.github.io/pt/blog</link>
         <description>ArithFi Blog</description>
-        <lastBuildDate>Tue, 26 Sep 2023 07:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 09:37:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pt</language>
+        <item>
+            <title><![CDATA[How to Swap On ArithFi]]></title>
+            <link>https://arithfi.github.io/pt/blog/How-to-Swap-On-ArithFi</link>
+            <guid>https://arithfi.github.io/pt/blog/How-to-Swap-On-ArithFi</guid>
+            <pubDate>Tue, 26 Sep 2023 09:37:25 GMT</pubDate>
+            <description><![CDATA[ArithFi, is a decentralized derivatives exchange eliminates market makers and LPs. Users can also get ATF on the swap feature. Here is the beginners guide on how to swap the USDT to ATF.]]></description>
+            <content:encoded><![CDATA[<p>ArithFi, is a decentralized derivatives exchange eliminates market makers and LPs. Users can also get ATF on the swap feature. Here is the beginners guide on how to swap the USDT to ATF.</p><ol><li>Open the web <a href="https://arithfi.com/#/swap" target="_blank" rel="noopener noreferrer"></a> and then click "Connect Wallet"</li></ol><p><img loading="lazy" src="https://bafybeia262kbv4yinvnzejbndc4swv7xhconoq46khtsxjvwgrmdw5fbzq.ipfs.nftstorage.link/0001.png" alt="0001" class="img_ev3q"></p><ol start="2"><li>Click "Send request" to verify your address.</li></ol><p><img loading="lazy" src="https://bafybeia262kbv4yinvnzejbndc4swv7xhconoq46khtsxjvwgrmdw5fbzq.ipfs.nftstorage.link/0002.png" alt="0001" class="img_ev3q"></p><ol start="3"><li><p>Click "Add ATF to wallet" and type the swap amount. </p><p>When you use swap feature for the first time, you need to click "Approve" first and then click "Swap".</p></li></ol><p><img loading="lazy" src="https://bafybeia262kbv4yinvnzejbndc4swv7xhconoq46khtsxjvwgrmdw5fbzq.ipfs.nftstorage.link/0003.png" alt="0001" class="img_ev3q"></p>]]></content:encoded>
+            <category>swap</category>
+        </item>
         <item>
             <title><![CDATA[ArithFi Copy Trading Terms & Conditions]]></title>
             <link>https://arithfi.github.io/pt/blog/ArithFi-Copy-Trading-TermsConditions</link>
