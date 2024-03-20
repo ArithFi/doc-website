@@ -1,6 +1,6 @@
 # ArithFi Deposit Campaign: Earn Up to $50 in ATF Tokens!
 
-![Image](https://nftstorage.link/ipfs/bafkreifvs6kr5qyhzldgdpnqe2gnimypqlbro3ojvc4csmfpgcot55impm "DepositCampaign")
+![Image](https://nftstorage.link/ipfs/bafkreiby42zeymuaubsvwixtmmf3jtrgegrvoa4idfunqe5qzdg3eqjuxu "DepositCampaign")
 
 
 **ArithFi App Download**: [Click here](https://arithfi.com/download.html?code=web)
