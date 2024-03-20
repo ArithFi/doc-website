@@ -1,6 +1,6 @@
 # Nhận lên tới 50$ token $ATF
 
-![Hình ảnh](https://nftstorage.link/ipfs/bafkreigdarrfpbcppm4dna7ofsro6bwthn2mo7zl4l5qlnc6h5dk6pgybe "DepositCampaign")
+![Hình ảnh](https://nftstorage.link/ipfs/bafkreic52vth3krm5x6fadorbsfnkwgd64qdlyzsuprtozuo4zgu5yeiwy "DepositCampaign")
 
 
 **Tải xuống ứng dụng ArithFi**: [Nhấn vào đây](https://arithfi.com/download.html?code=web)
