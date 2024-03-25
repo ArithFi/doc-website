@@ -20,19 +20,22 @@ services. Therefore, the core of ArithFi is to give value to the ATF token, rath
 
 Here are the sources of value for the ATF token:
 
-1. Utility generated from trading services as a source of value
+1. **Utility generated from trading services as a source of value**
+   
    ArithFi offers users a trading experience with significantly lower costs compared to other exchanges, which is the
    core advantage of its trading services. The efficiency, security, and convenience experienced by users when trading
    futures, options, and other derivatives on the platform constitute the core value of ArithFi.
 
-2. Traders' accumulated losses converted into token burns
+2. **Traders' accumulated losses converted into token burns**
+   
    Statistics show that most individual investors typically struggle to beat the market. In ArithFi's economic model,
    this phenomenon is cleverly turned into part of the token's value. When traders incur losses, these $ATF tokens are
    sent to a smart contract and "burned." This burning mechanism reduces the total supply of tokens, theoretically
    increasing the scarcity and value of the remaining tokens, bringing potential profits to the platform and token
    holders.
 
-3. Cost efficiency and decentralization advantages
+3. **Cost efficiency and decentralization advantages**
+   
    As ArithFi is not a profit-oriented corporate model but a currency model aimed at providing low-cost services, its
    operational costs are expected to become negligible as the platform becomes fully decentralized through the use of
    layer2 technology. Decentralization not only means lower operational costs but also more secure settlement services
