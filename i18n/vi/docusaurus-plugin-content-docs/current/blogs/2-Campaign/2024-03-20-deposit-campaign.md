@@ -37,7 +37,7 @@ Khi bạn nạp tiền vào tài khoản, bạn sẽ đủ điều kiện nhận
 Phần thưởng sẽ được cộng vào tài khoản của bạn bằng tiền thật, tăng cường khả năng giao dịch của bạn với ArithFi. Hãy tận dụng cơ hội này để tăng cường khoản đầu tư của bạn!
 
 ## Điều khoản & Điều kiện:
-- **Thời gian**: Từ 20/3/2024 đến 27/3/2024
+- **Thời gian**: Từ 20/3/2024 đến 01/4/2024
 - **Phân phối Phần thưởng**: Phần thưởng sẽ được cộng vào tài khoản của bạn vào ngày tiếp theo sau khi hoàn thành từng nhiệm vụ.
 
 
