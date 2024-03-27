@@ -37,7 +37,7 @@ When you deposit funds into your account, you're eligible for a bonus based on t
 The bonus will be credited to your account in real money, enhancing your trading capacity with ArithFi. Make the most of this opportunity to boost your investment!
 
 ## Terms & Conditions:
-- **Period**: Mar 20, 2024 - Mar 27, 2024
+- **Period**: Mar 20, 2024 - Apr 1, 2024
 - **Reward Distribution**: Rewards will be credited to your account the day following the completion of each task.
 
 
