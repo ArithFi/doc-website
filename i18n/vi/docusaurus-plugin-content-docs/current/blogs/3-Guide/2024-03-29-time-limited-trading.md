@@ -1,7 +1,7 @@
 ---
 slug: giao-dich-trong-thoi-gian-gioi-han
 title: Giao Dịch Trong Thời Gian Giới Hạn của ArithFi
-tags: ['guild']
+tags: ['guide']
 ---
 
 # Giao Dịch Trong Thời Gian Giới Hạn của ArithFi
