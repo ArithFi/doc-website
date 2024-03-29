@@ -1,3 +1,10 @@
+---
+slug: time-limited-trading
+title: ArithFi Time-Limited Trading
+tags: ['guild']
+---
+
+
 # ArithFi Time-Limited Trading
 
 ## What is time-limited trading?
