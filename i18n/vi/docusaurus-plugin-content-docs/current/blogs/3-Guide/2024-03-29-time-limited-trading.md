@@ -1,5 +1,5 @@
 ---
-slug: giao-dich-trong-thoi-gian-gioi-han
+slug: time-limited-trading
 title: Giao Dịch Trong Thời Gian Giới Hạn của ArithFi
 tags: ['guide']
 ---
