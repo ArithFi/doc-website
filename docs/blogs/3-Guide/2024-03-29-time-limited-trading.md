@@ -25,7 +25,7 @@ Time-limited trading is an independent trading account introduced by ArithFi tha
 If you are a new user of ArithFi, completing the following steps will grant you a 100 ATF time-limited trading airdrop:
 - Enter the code "100ATF" in the invitation section.
 
-![Enter code 1](https://nftstorage.link/ipfs/bafkreie7ai4t4nvqlfdfdd4ab6vdmtjwvr5i4fcnuchxxxrqjggxrtmccu) ![Enter code 2](https://nftstorage.link/ipfs/bafkreiahkgpef7qikjy5sproivm7dcav34ko6pxoztsxc55p6t6x6aba7y)
+![Enter code 1](https://nftstorage.link/ipfs/bafkreiahhghctk4dxpneupckzayzl2m6a7c7qpqhideoupvvyinnfeindy)
 
 
 #### Trading task
