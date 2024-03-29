@@ -1,7 +1,7 @@
 ---
 slug: time-limited-trading
 title: ArithFi Time-Limited Trading
-tags: ['guild']
+tags: ['guide']
 ---
 
 
