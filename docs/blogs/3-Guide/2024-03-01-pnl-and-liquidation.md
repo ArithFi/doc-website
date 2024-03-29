@@ -2,7 +2,7 @@
 slug: PNL-and-Liquidation
 title: PNL and Liquidation
 
-tags: ['guild']
+tags: ['guide']
 ---
 
 # Profit and Loss (PNL)
