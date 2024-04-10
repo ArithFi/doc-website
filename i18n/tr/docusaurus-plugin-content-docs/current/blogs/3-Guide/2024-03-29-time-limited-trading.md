@@ -22,7 +22,10 @@ Zamanla sınırlı ticaret, kullanıcıların 72 saat içinde ticaret görevleri
 
 ### Yeni kullanıcı hava atışı
 
-Eğer ArithFi'nin yeni bir kullanıcısıysanız, ArithFi Uygulamasında airdrop kampanyasını kontrol edin, her hafta yeni kullanıcılar için airdrop ödülleri olacak.
+Eğer ArithFi'nin yeni bir kullanıcısıysanız, aşağıdaki adımları tamamlamanız size 100 ATF süreli ticaret airdrop'u kazandıracak:
+- Davet bölümüne "**NewUser3**" kodunu girin.
+
+![Kod gir 1](https://nftstorage.link/ipfs/bafkreiahhghctk4dxpneupckzayzl2m6a7c7qpqhideoupvvyinnfeindy)
 
 #### Ticaret görevi
 - 72 saat içinde en az 3 vadeli işlem ticareti tamamlanmalı, en az 50x kaldıraç kullanılmalıdır.
