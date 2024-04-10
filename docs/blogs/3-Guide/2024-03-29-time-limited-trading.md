@@ -22,8 +22,10 @@ Time-limited trading is an independent trading account introduced by ArithFi tha
 
 ### New user airdrop
 
-If you are a new user of ArithFi, check the airdrop campaign in ArithFi App, every week there will be airdrop rewards for new users.
+If you are a new user of ArithFi, completing the following steps will grant you a 100 ATF time-limited trading airdrop:
+- Enter the code "**NewUser1**" in the invitation section.
 
+![Enter code 1](https://nftstorage.link/ipfs/bafkreiahhghctk4dxpneupckzayzl2m6a7c7qpqhideoupvvyinnfeindy)
 
 #### Trading task
 - **MUST complete at least 3 futures trades within 72 hours, using leverage of no less than 50x.**
