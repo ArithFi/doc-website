@@ -21,7 +21,10 @@ Giao dịch trong thời gian giới hạn là một tài khoản giao dịch đ
 
 ### Airdrop cho người dùng mới
 
-Nếu bạn là người dùng mới của ArithFi, hãy kiểm tra chiến dịch airdrop trong ứng dụng ArithFi, mỗi tuần sẽ có phần thưởng airdrop dành cho người dùng mới.
+Nếu bạn là người dùng mới của ArithFi, hoàn thành các bước sau sẽ mang lại cho bạn một airdrop giao dịch có thời hạn 100 ATF:
+- Nhập mã "**NewUser2**" trong phần mời.
+
+![Nhập mã 1](https://nftstorage.link/ipfs/bafkreiahhghctk4dxpneupckzayzl2m6a7c7qpqhideoupvvyinnfeindy)
 
 #### Nhiệm vụ giao dịch
 - **PHẢI hoàn thành ít nhất 3 lần giao dịch hợp đồng tương lai trong vòng 72 giờ, sử dụng đòn bẩy không thấp hơn 50 lần.**
