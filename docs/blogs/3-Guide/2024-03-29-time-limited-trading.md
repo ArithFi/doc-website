@@ -29,6 +29,7 @@ If you are a new user of ArithFi, completing the following steps will grant you 
 
 #### Trading task
 - **MUST complete at least 3 futures trades within 72 hours, using leverage of no less than 50x.**
+- Be sure to open ArithFi App's notifications, otherwise you may not receive the reward.
 
 #### Reward
 - Upon completing the trading tasks within 72 hours, all margin balance in the time-limited account will automatically transfer to the regular trading account, becoming **withdrawable real money**.
