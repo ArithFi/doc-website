@@ -1,3 +1,10 @@
+---
+slug: letter-for-arithfi-community
+title: A Letter For ArithFi Community
+tags: ['letter']
+---
+
+
 Dear ArithFi Community,
 
 Since the inception of the ArithFi SCP model at the end of 2021, we have been committed to reshaping the crypto trading sphere, striving for a more efficient and equitable trading environment. Our vision is to pioneer an era of commission-free trading, thereby democratizing crypto transactions and ensuring fair trading conditions for all. Just as electric vehicles will eventually replace gasoline-powered cars, a zero-fee crypto trading paradigm is destined to supersede the current commission-based models.
