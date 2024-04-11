@@ -1,3 +1,11 @@
+---
+slug: letter-for-arithfi-community
+title: Thư Gửi Cộng Đồng ArithFi
+tags: ['letter']
+---
+
+
+
 Kính thưa Cộng đồng ArithFi,
 
 Từ khi mô hình SCP của ArithFi được hình thành vào cuối năm 2021, chúng tôi đã cam kết tái cấu trúc lĩnh vực giao dịch tiền mã hóa, nỗ lực vì một môi trường giao dịch hiệu quả và công bằng hơn. Tầm nhìn của chúng tôi là tiên phong trong kỷ nguyên giao dịch không phí hoa hồng, từ đó dân chủ hóa giao dịch tiền mã hóa và đảm bảo điều kiện giao dịch công bằng cho tất cả mọi người. Giống như xe điện cuối cùng sẽ thay thế xe chạy bằng xăng, một mô hình giao dịch tiền mã hóa không phí sẽ chắc chắn thay thế các mô hình hiện hành dựa trên phí giao dịch.
