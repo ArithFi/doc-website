@@ -28,6 +28,7 @@ Nếu bạn là người dùng mới của ArithFi, hoàn thành các bước sa
 
 #### Nhiệm vụ giao dịch
 - **PHẢI hoàn thành ít nhất 3 lần giao dịch hợp đồng tương lai trong vòng 72 giờ, sử dụng đòn bẩy không thấp hơn 50 lần.**
+- Nhớ chắc chắn phải mở thông báo của ArithFi, nếu không có thể bạn sẽ không nhận được phần thưởng.
 
 #### Phần thưởng
 - Khi hoàn thành nhiệm vụ giao dịch trong vòng 72 giờ, toàn bộ số dư ký quỹ trong tài khoản giao dịch trong thời gian giới hạn sẽ tự động chuyển sang tài khoản giao dịch thông thường, trở thành **tiền thật có thể rút**.
