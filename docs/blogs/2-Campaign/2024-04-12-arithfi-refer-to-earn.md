@@ -13,7 +13,7 @@ Unlock the power of your network with ArithFi! Generate your own referral code a
 
 **Reward Yourself and Your Friends:**
 - Earn $1 USD for every valid referral, with no limits on how much you can earn.
-- Each friend you invite will receive an airdrop bonus of 120 ATF tokens.
+- Each friend you invite will receive an airdrop bonus of 200 ATF tokens(Time-limited account).
 
 **Criteria for a Valid Referral:**
 - Referred users must make at least one deposit on ArithFi.
