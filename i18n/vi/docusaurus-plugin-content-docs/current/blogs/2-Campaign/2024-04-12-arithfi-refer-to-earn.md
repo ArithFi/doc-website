@@ -13,7 +13,7 @@ Mở khóa sức mạnh mạng lưới của bạn với ArithFi! Tạo mã gi�
 
 **Thưởng cho Bản thân và Bạn bè:**
 - Kiếm được 1 USD cho mỗi lượt giới thiệu hợp lệ, không giới hạn số tiền bạn có thể kiếm được.
-- Mỗi người bạn mời sẽ nhận được phần thưởng airdrop là 120 token ATF(Tài khoản có thời hạn).
+- Mỗi người bạn mời sẽ nhận được phần thưởng airdrop là 200 token ATF(Tài khoản có thời hạn).
 
 **Tiêu chí cho Lượt giới thiệu Hợp lệ:**
 - Người được giới thiệu phải thực hiện ít nhất một lần nạp tiền vào ArithFi.
