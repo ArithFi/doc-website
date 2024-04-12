@@ -21,5 +21,5 @@ The true power of blockchain lies in the hands of ordinary people. In the blockc
 
 ArithFi Team
 
-2024.04.11.
+2024.04.12.
 
