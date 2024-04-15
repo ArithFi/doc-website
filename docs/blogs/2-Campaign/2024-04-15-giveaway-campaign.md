@@ -6,6 +6,8 @@ tags: ['guide']
 
 # 200 ATF (Time-Limited) Giveaway! 
 
+![Promotional Image](https://nftstorage.link/ipfs/bafkreiclevvh6on43x2ymptrhgjbino43c7g3bhfo3zupajdyirwq4obza)
+
 Join our **special giveaway** and get **200 ATF** in a Time-Limited account!
 
 ## 🌟 For New Users:
