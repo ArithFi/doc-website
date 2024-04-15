@@ -32,4 +32,4 @@ Nếu bạn là người dùng mới của ArithFi, việc hoàn thành các bư
 ## Tìm kiếm thêm chiến dịch airdrop?
 Tham gia thêm các chiến dịch airdrop trong cộng đồng Telegram của ArithFi.
    - Cộng đồng tiếng Anh: [https://t.me/ArithFi_Dao](https://t.me/ArithFi_Dao)
-   - Cộng đồng tiếng Việt: [https://t.me/ArithFiVietnamese](https://t.me/Arith
+   - Cộng đồng tiếng Việt: [https://t.me/ArithFiVietnamese](https://t.me/ArithFiVietnamese)
