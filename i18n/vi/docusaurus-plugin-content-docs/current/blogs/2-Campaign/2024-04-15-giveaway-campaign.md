@@ -8,7 +8,7 @@ tags: ['guide']
 
 ![Hình ảnh khuyến mãi](https://nftstorage.link/ipfs/bafkreighlpgthxdu7zdu5r3sqdf752v7tou7w4qami5plimjgpnrbjtvdu)
 
-Tham gia **chương trình tặng quà đặc biệt** của chúng tôi và có cơ hội nhận **200 ATF** trong tài khoản Giới hạn Thời gian!
+Tham gia chương trình tặng quà đặc biệt của chúng tôi và nhận **200 ATF** trong tài khoản Giới hạn Thời gian của bạn!
 
 ## 🌟 Dành cho Người dùng Mới:
 - **Nhập Mã**: `NewUser2`
