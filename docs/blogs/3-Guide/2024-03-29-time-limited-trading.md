@@ -18,6 +18,8 @@ Time-limited trading is an independent trading account introduced by ArithFi tha
    - If you have profits in the time-limited tradign account, all profits in your time-limited trading account will automatically transfer to your regular trading account, becoming withdrawable real money.
    - The balance in your time-limited trading account will automatically reset to zero.
 
+E.g. You receive a Time-Limited airdrop of 200 ATF. After a few transactions, your account balance becomes 500 ATF. Then, after 72 hours, your Main Account will automatically receive 300 ATF, and the Time-Limited account will be reset to zero.
+
 ## How to get time-limited trading airdrop 
 
 ### New user airdrop
