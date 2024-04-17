@@ -6,7 +6,7 @@ tags: ['campaign']
 
 # ArithFi'dan 500 ATF Süreli Bonus!
 
-![Resim](https://nftstorage.link/ipfs/bafybeianlsihxxufa5itq5py5dq2ygizt6k2uxpfjdwvom74gkd44fjkga)
+![Resim](https://nftstorage.link/ipfs/bafybeielser6f6d4trkjpihh2ar6k7rjnyhzeg5eo42nk6v2q2yl2a5gpu)
 
 **ArithFi Uygulamasını İndirin**: [Buraya tıklayın](https://arithfi.com/download.html?code=web)
 
