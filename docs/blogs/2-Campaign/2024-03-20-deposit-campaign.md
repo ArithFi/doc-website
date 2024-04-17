@@ -1,46 +1,34 @@
-# ArithFi Deposit Campaign: Earn Up to $50 in ATF Tokens!
+---
+slug: 2024-03-20-deposit-campaign
+title: 500 ATF Time-Limited Bonus
+tags: ['campaign']
+---
 
-![Image](https://nftstorage.link/ipfs/bafkreiby42zeymuaubsvwixtmmf3jtrgegrvoa4idfunqe5qzdg3eqjuxu "DepositCampaign")
+
+# ArithFi 500 ATF Time-Limited Bonus!
+
+![Image](https://nftstorage.link/ipfs/bafybeianlsihxxufa5itq5py5dq2ygizt6k2uxpfjdwvom74gkd44fjkga)
 
 
 **ArithFi App Download**: [Click here](https://arithfi.com/download.html?code=web)
 
-## How to Participate:
+### Reward Details:
 
-### 1. Deposit ATF Tokens
-Make Your Deposit: Add at least $100 worth of ATF tokens to your ArithFi account.
+Receive a 500 ATF (Time-Limited) Bonus, to be distributed on April 20th!
 
-  Deposit guide (EN): [Watch here](https://www.youtube.com/watch?v=Mcr1bTsPTK4)  
-  Deposit guide (VI): [Watch here](https://t.me/ArithFiVietnamese/26)
+### How to Participate:
 
-### 2. Leave Your Wallet Address in Community
-Connect on Telegram: Join the ArithFi Telegram group and share your wallet address in the group chat.
+1. Make Your Deposit: Add at least $100 worth of ATF tokens to your ArithFi account.
 
-  English Community: [Join here](https://t.me/ArithFi_chat)  
-  Vietnamese Community: [Join here](https://t.me/ArithFi_Vietnamese)
+2. Hold the deposited ATF for at least 3 days.
 
-### 3. Trade and Earn
-Stay Active: Execute trades on ArithFi for **3 consecutive days**.
+*Deadline: April 17th, 23:59 (UTC+7)
 
-## Rewards Structure
+**Guide:**
 
-When you deposit funds into your account, you're eligible for a bonus based on the amount deposited:
+- Deposit guide (EN): [Watch here](https://www.youtube.com/watch?v=Mcr1bTsPTK4)  
+- Deposit guide (VI): [Watch here](https://t.me/ArithFiVietnamese/26)
 
-| Deposit Amount  | Bonus Received |
-|-----------------|----------------|
-| $100            | $10            |
-| $200            | $20            |
-| $300            | $30            |
-| $400            | $40            |
-| $500 or more    | $50            |
-
-The bonus will be credited to your account in real money, enhancing your trading capacity with ArithFi. Make the most of this opportunity to boost your investment!
-
-## Terms & Conditions:
-- **Period**: Mar 20, 2024 - Apr 1, 2024
-- **Reward Distribution**: Rewards will be credited to your account the day following the completion of each task.
-
-
-Embark on your ArithFi journey today and take advantage of this exclusive offer to amplify your trading experience!
+Join us at ArithFi and enhance your investment with this exclusive bonus offer!
 
 
