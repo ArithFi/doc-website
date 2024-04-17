@@ -1,44 +1,30 @@
-# Nhận lên tới 50$ token $ATF
+---
+slug: 2024-03-20-deposit-campaign
+title: Phần thưởng giới hạn thời gian 500 ATF
+tags: ['campaign']
+---
 
-![Hình ảnh](https://nftstorage.link/ipfs/bafkreic52vth3krm5x6fadorbsfnkwgd64qdlyzsuprtozuo4zgu5yeiwy "DepositCampaign")
+# ArithFi Phần thưởng giới hạn thời gian 500 ATF!
 
+![Hình ảnh](https://nftstorage.link/ipfs/bafybeigs2ecn43yu2jqxrv5rjzz4zazgnlx6ibf24m6res6lt3ekytiwiq)
 
 **Tải xuống ứng dụng ArithFi**: [Nhấn vào đây](https://arithfi.com/download.html?code=web)
 
-## Cách tham gia:
+### Chi tiết phần thưởng:
 
-### 1. Nạp Token ATF
-Nạp tiền của bạn: Thêm ít nhất 100$ giá trị token ATF vào tài khoản ArithFi của bạn.
+Nhận ngay 500 ATF (giới hạn thời gian) sẽ được phân phối vào ngày 20 tháng 4!
 
-  Hướng dẫn nạp tiền (EN): [Xem tại đây](https://www.youtube.com/watch?v=Mcr1bTsPTK4)  
-  Hướng dẫn nạp tiền (VI): [Xem tại đây](https://t.me/ArithFiVietnamese/26)
+### Cách tham gia:
 
-### 2. Để lại Địa chỉ Ví trong Cộng đồng
-Kết nối trên Telegram: Tham gia nhóm Telegram ArithFi và chia sẻ địa chỉ ví của bạn trong nhóm chat.
+1. Thực hiện gửi tiền: Thêm ít nhất $100 giá trị token ATF vào tài khoản ArithFi của bạn.
 
-  Cộng đồng Tiếng Anh: [Tham gia tại đây](https://t.me/ArithFi_chat)  
-  Cộng đồng Tiếng Việt: [Tham gia tại đây](https://t.me/ArithFi_Vietnamese)
+2. Giữ số tiền đã gửi ít nhất 3 ngày.
 
-### 3. Giao dịch và Kiếm tiền
-Hoạt động liên tục: Thực hiện giao dịch trên ArithFi trong **3 ngày liên tiếp**.
+*Hạn chót: 23:59 ngày 17 tháng 4 (UTC+7)
 
-## Cấu trúc Phần thưởng
+**Hướng dẫn:**
 
-Khi bạn nạp tiền vào tài khoản, bạn sẽ đủ điều kiện nhận phần thưởng dựa trên số tiền nạp:
+- Hướng dẫn gửi tiền (EN): [Xem tại đây](https://www.youtube.com/watch?v=Mcr1bTsPTK4)  
+- Hướng dẫn gửi tiền (VI): [Xem tại đây](https://t.me/ArithFiVietnamese/26)
 
-| Số tiền Nạp    | Phần thưởng Nhận được |
-|---------------|----------------------|
-| 100$          | 10$                  |
-| 200$          | 20$                  |
-| 300$          | 30$                  |
-| 400$          | 40$                  |
-| 500$ trở lên  | 50$                  |
-
-Phần thưởng sẽ được cộng vào tài khoản của bạn bằng tiền thật, tăng cường khả năng giao dịch của bạn với ArithFi. Hãy tận dụng cơ hội này để tăng cường khoản đầu tư của bạn!
-
-## Điều khoản & Điều kiện:
-- **Thời gian**: Từ 20/3/2024 đến 01/4/2024
-- **Phân phối Phần thưởng**: Phần thưởng sẽ được cộng vào tài khoản của bạn vào ngày tiếp theo sau khi hoàn thành từng nhiệm vụ.
-
-
-Bắt đầu hành trình ArithFi của bạn ngay hôm nay và tận dụng ưu đãi độc quyền này để tăng cường trải nghiệm giao dịch của bạn!
+Hãy tham gia cùng chúng tôi tại ArithFi và nâng cao khoản đầu tư của bạn với ưu đãi độc quyền này!
