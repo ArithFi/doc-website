@@ -14,12 +14,5 @@ tags: ['guide']
 - **Kod Girin**: `NewUser1`
 - Sadece kaydolun ve yukarıdaki kodu kullanarak **200 ATF** talep edin!
 
-## 🌟 Mevcut Kullanıcılar İçin:
-- **Para Yatırma**: **17 Nisan** saat **00:00'a** kadar en az **$5** yatırın.
-
-## 🔥 Tüm Uygun Kullanıcılar İçin Bonus
-Bu koşulları karşılayan yeni ve mevcut kullanıcılar, **Süreli bir hesapta 200 ATF** alacaktır!
-
 Bu **mükemmel fırsatı** kaçırmayın! Bizimle ticarete başlayın ve ATF'nizin avantajlarını keşfedin!
 
-Son Teslim Tarihi: 17 Nisan (UTC+8), 00:00
