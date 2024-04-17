@@ -14,12 +14,12 @@ Tham gia **chương trình tặng quà đặc biệt** của chúng tôi và nh�
 
 ## 🌟 Dành cho Người dùng Mới:
 - Tải xuống ArithFi: [Google Play](https://play.google.com/store/apps/details?id=com.arithfi) / [Appstore](https://apps.apple.com/us/app/6475583769)
-- Nhập Mã: `NewUser2`
+- Nhập Mã: `NewUser1`
 
 Chỉ cần đăng ký và sử dụng mã trên để nhận **200 ATF** của bạn!
 
 ## 🌟 Dành cho Người dùng Hiện Tại:
-- **Thực hiện Gửi tiền**: Gửi ít nhất **5 đô la** trước **00:00 ngày 17 tháng 4** để đủ điều kiện.
+- **Thực hiện Gửi tiền**: Gửi ít nhất **5 đô la** trước **00:00 ngày 20 tháng 4** để đủ điều kiện.
 
 ## 🔥 Phần thưởng cho Tất cả Người dùng Đủ Điều Kiện
 Cả người dùng mới và hiện tại đáp ứng các điều kiện này sẽ nhận được **200 ATF trong tài khoản Giới hạn Thời gian**!
