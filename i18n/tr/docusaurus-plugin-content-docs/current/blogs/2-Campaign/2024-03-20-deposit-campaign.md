@@ -1,18 +1,18 @@
 ---
 slug: 2024-03-20-deposit-campaign
-title: 500 ATF Süreli Bonus
+title: 450 ATF Süreli Bonus
 tags: ['campaign']
 ---
 
 # ArithFi'dan 500 ATF Süreli Bonus!
 
-![Resim](https://nftstorage.link/ipfs/bafybeielser6f6d4trkjpihh2ar6k7rjnyhzeg5eo42nk6v2q2yl2a5gpu)
+![Resim](https://nftstorage.link/ipfs/bafybeidbutmif7p45p6oiifrqnxfqqj7l6vst3vwudwkwh7qpafmnrm76q)
 
 **ArithFi Uygulamasını İndirin**: [Buraya tıklayın](https://arithfi.com/download.html?code=web)
 
 ### Ödül Detayları:
 
-20 Nisan'da dağıtılacak olan 500 ATF (Süreli) Bonusu alın!
+22 Nisan'da dağıtılacak olan 450 ATF (Süreli) Bonusu alın!
 
 ### Katılım Şekli:
 
@@ -20,7 +20,7 @@ tags: ['campaign']
 
 2. Yatırılan ATF'yi en az 3 gün tutun.
 
-*Süre sonu: 17 Nisan, 23:59 (UTC+7)
+*Süre sonu: 18 Nisan, 23:59 (UTC+7)
 
 **Rehber:**
 
