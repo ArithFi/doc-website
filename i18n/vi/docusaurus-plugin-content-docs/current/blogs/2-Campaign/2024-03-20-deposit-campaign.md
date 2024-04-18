@@ -4,7 +4,7 @@ title: Phần thưởng giới hạn thời gian 450 ATF
 tags: ['campaign']
 ---
 
-# ArithFi Phần thưởng giới hạn thời gian 500 ATF!
+# ArithFi Phần thưởng giới hạn thời gian 450 ATF!
 
 ![Hình ảnh](https://nftstorage.link/ipfs/bafybeieeoesjmtm7m27isdkovd4ivzbgsjjq2nrvz5l4co6a4pqybvuzna)
 
