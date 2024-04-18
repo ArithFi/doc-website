@@ -4,7 +4,7 @@ title: 450 ATF Süreli Bonus
 tags: ['campaign']
 ---
 
-# ArithFi'dan 500 ATF Süreli Bonus!
+# ArithFi'dan 450 ATF Süreli Bonus!
 
 ![Resim](https://nftstorage.link/ipfs/bafybeidbutmif7p45p6oiifrqnxfqqj7l6vst3vwudwkwh7qpafmnrm76q)
 
