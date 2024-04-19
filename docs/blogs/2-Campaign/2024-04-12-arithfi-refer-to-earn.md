@@ -22,7 +22,7 @@ Unlock the power of your network with ArithFi! Generate your own referral code a
 - Please enable push notifications in the ArithFi app to allow for automatic verification of referrals.
 - Users who contribute to referrals will automatically join the ArithFi Snapshot Campaign.
 
-**Campaign Period:** April 16 - April 30
+**Campaign Period:** April 16 - April 18
 
 Start spreading the word today and reap the rewards with ArithFi!
 
