@@ -22,7 +22,7 @@ Mở khóa sức mạnh mạng lưới của bạn với ArithFi! Tạo mã gi�
 - Vui lòng bật tính năng thông báo đẩy trong ứng dụng ArithFi để cho phép xác minh tự động các lượt giới thiệu.
 - Dịch sang tiếng Việt, câu này sẽ là: "Người dùng tham gia giới thiệu sẽ tự động tham gia Chiến dịch Chụp Ảnh Nhanh ArithFi.
 
-**Thời gian Chiến dịch:** Từ ngày 16 đến 30 tháng 4
+**Thời gian Chiến dịch:** Từ ngày 16 đến 18 tháng 4
 
 Hãy bắt đầu lan tỏa thông điệp ngay hôm nay và gặt hái phần thưởng với ArithFi!
 
