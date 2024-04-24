@@ -4,10 +4,6 @@ title: ArithFi Contribution Points
 tags: ['guide']
 ---
 
-
-## ArithFi Contribution Points
-
-
 ### What is ArithFi Contribution Points?
 
 The Contribution Points reflect the user's level of contribution to ArithFi since its launch. Users with higher levels of contribution will receive greater airdrops from ArithFiDAO.
