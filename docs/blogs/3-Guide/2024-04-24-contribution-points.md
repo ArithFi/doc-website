@@ -23,8 +23,6 @@ _**Your Contribution Points = Deposit Points + Invitation Points + Trading Point
 
 ### Rules of Points
 
-Contribution Points Update time: 23:00 (UTC+7) every day
-
 **1. Deposit Points**
   
 - Deposit Points = Amount of ATF Deposited * Number of Days Held * 0.3%**
@@ -53,5 +51,7 @@ Points are awarded for following on ArithFi social platforms:
 
 Each action is awarded fixed points as listed.
 
-
+### Time of Points
+- Start date: Feb 22, 2024
+- Update time: 23:00 (UTC+7) every day
 
