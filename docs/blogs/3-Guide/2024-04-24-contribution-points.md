@@ -21,7 +21,7 @@ _**Your Contribution Points = Deposit Points + Invitation Points + Trading Point
 
 **1. Deposit Points**
   
-- Deposit Points = Amount of ATF Deposited * Number of Days Held * 0.3%**
+- Deposit Points = Amount of ATF Deposited * Number of Days Held * 0.3%
 
 - Amount of ATF Deposited = Deposited ATF - Withdrawed ATF
 
