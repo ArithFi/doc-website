@@ -32,7 +32,7 @@ Tom deposits 10,000 ATF on January 1, 2024, and withdraws 1,000 ATF on January 1
 
 **2. Invitation Points**
   
-- Invitation Points = 10% of the deposit points of the invited person.
+- Invitation Points = Referral Deposit Points * 10%
 
 **3. Trading Points**
 
