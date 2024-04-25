@@ -15,9 +15,7 @@ The Contribution Points reflect the user's level of contribution to ArithFi sinc
 _**Your Contribution Points = Deposit Points + Invitation Points + Trading Points + Activity Points**_
 
 
----------------------------  
-
-### Rules of Points
+![points](https://nftstorage.link/ipfs/bafybeiflqpssvztq5nd573tup4mvada3x3h5geyanfyxtuakfaiatgzyze)
 
 **1. Deposit Points**
   
