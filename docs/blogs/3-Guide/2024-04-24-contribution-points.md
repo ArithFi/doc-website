@@ -39,9 +39,11 @@ Tom deposits 10,000 ATF on January 1, 2024, and withdraws 1,000 ATF on January 1
 **4. Activity Points:**
 
 Points are awarded for following on ArithFi social platforms:
-- ArithFi Twitter: 20 points
-- ArithFi Telegram: 20 points
-- ArithFi Discord: 20 points
+- ArithFi Twitter: 10 points
+- ArithFi Telegram: 10 points
+- ArithFi Discord: 10 points
+
+Get your activity points here: https://rewards.taskon.xyz/campaign/detail/901661211
 
 Each action is awarded fixed points as listed.
 
